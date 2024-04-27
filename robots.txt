@@ -1,0 +1,7 @@
+#
+# robots.txt for https://thebass.me/
+#
+
+# Disallow all agents and all file paths
+User-agent: *
+Disallow: /
