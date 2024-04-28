@@ -1,6 +1,8 @@
 #
 # robots.txt for https://thebass.me/
 #
+# Last Updated: 2024-04-28T19:09:00Z
+#
 
 # Disallow all agents and all file paths
 User-agent: *
